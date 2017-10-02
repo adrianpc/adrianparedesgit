@@ -29,6 +29,9 @@ and open the template in the editor.
                 function metode3(){
                     
                 }
+                function fantasma(){
+                    
+                }
             }
         ?>
     </body>
