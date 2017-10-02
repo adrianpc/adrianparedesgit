@@ -23,6 +23,9 @@ and open the template in the editor.
                 function metode1(){
                     
                 }
+                function metode2(){
+                    
+                }
             }
         ?>
     </body>
