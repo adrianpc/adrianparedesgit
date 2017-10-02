@@ -30,7 +30,7 @@ and open the template in the editor.
                     
                 }
                 function fantasma(){
-                    echo('añadido codigo');
+                    echo('11');
             }
         ?>
     </body>
