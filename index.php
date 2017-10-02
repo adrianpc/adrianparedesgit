@@ -20,6 +20,9 @@ and open the template in the editor.
                 function getEdad(){
                     echo($edad);
                 }
+                function metode1(){
+                    
+                }
             }
         ?>
     </body>
